@@ -1,0 +1,19 @@
+.signup{
+    position: absolute;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    border-radius: 7px;
+    width: 90px;
+    height: 37px;
+    border: none;
+    outline: none;
+    z-index: 20;
+    background-color: #EF233C;
+    left: 1220px;
+    top: 13px;
+  
+  }
+  

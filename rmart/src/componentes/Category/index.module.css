@@ -1,0 +1,26 @@
+p{
+    z-index: 20;
+  position: absolute;
+  width: 107px;
+  height: 24px;
+  left: 260px;
+  margin-top: 18;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  
+  color: #000000;
+  }
+  .categoryButton{
+    z-index: 20;
+    position: absolute;
+    margin-left: 375px;
+    background-color: transparent;
+    top: 25px;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
